@@ -1,0 +1,25 @@
+.shan{
+    background-color: rgb(61, 25, 81);
+    color: white;
+    text-align: center;
+    font-size: 49px;
+    line-height: 80px;
+}
+.shan:hover{
+     background-color: rgb( 36, 43, 0);
+}
+.why{
+    background-color: rgb(15, 52, 25);
+    color: white;
+    text-align: center;
+    font-size: 30px;
+    line-height: 50px;
+    margin: 30px;
+
+}
+.abt{
+    background-color: rgb(15, 52, );
+    color: white;
+    padding: 20px;
+    font-size: 30px;
+}
